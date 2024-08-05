@@ -1,4 +1,4 @@
-package com.izeye.helloworld.api;
+package com.izeye.helloworld.jcstress.api;
 
 import org.openjdk.jcstress.annotations.Actor;
 import org.openjdk.jcstress.annotations.JCStressTest;
